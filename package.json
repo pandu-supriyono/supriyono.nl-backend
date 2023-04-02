@@ -8,7 +8,8 @@
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "cs": "config-sync"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.57.0",
